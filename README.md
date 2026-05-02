@@ -64,3 +64,17 @@ SELECT * FROM apod_data;
 | 2026-05-02  | Seeing Titan  | Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.| https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg | image |
 
 ## Screenshots
+### Airflow DAG Execution
+<img width="700" height="500" alt="Screenshot 2026-05-02 202051" src="https://github.com/user-attachments/assets/f5fab7c8-9aaa-42ba-93f1-b95e3e14fdb2" />
+
+### Data Transformation
+<img width="1876" height="329" alt="Screenshot 2026-05-02 202208" src="https://github.com/user-attachments/assets/8a4a50f7-8f44-48b0-aab4-c733e18f239b" />
+
+### Data Load to PostgreSQL
+<img width="1875" height="563" alt="Screenshot 2026-05-02 202221" src="https://github.com/user-attachments/assets/ef8c585d-26a3-46ad-8d79-24eaa4c61a0b" />
+
+### PostgreSQL Output
+<img width="1852" height="755" alt="Screenshot 2026-05-02 202244" src="https://github.com/user-attachments/assets/4569b257-bb04-4f11-9a23-724d6dfd4c4f" />
+
+
+
