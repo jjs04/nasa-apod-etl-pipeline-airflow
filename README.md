@@ -9,7 +9,7 @@ This project implements an automated ETL (Extract, Transform, Load) pipeline usi
 * Docker
 
 ## Architecture
-![Architecture](screenshots/architecture.png)
+![Architecture](screenshots/Architecture.png)
 
 ## Pipeline Workflow
 ### Extract
