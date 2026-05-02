@@ -9,7 +9,7 @@ This project implements an automated ETL (Extract, Transform, Load) pipeline usi
 * Docker
 
 ## Architecture
-![Architecture](screenshots/Architecture.png)
+![Architecture](Screenshots/Architecture.png)
 
 ## Pipeline Workflow
 ### Extract
@@ -68,16 +68,16 @@ SELECT * FROM apod_data;
 
 ## Screenshots
 ### Airflow DAG Execution
-![DAG](screenshots/dag.png)
+![DAG](Screenshots/dag.png)
 
 ### Data Transformation
-![Transform](screenshots/transform.png)
+![Transform](Screenshots/transform.png)
 
 ### Data Load to PostgreSQL
-![Load](screenshots/load.png)
+![Load](Screenshots/load.png)
 
 ### PostgreSQL Output
-![DB](screenshots/postgres.png)
+![DB](Screenshots/postgres.png)
  
 
 ## What I Learned
