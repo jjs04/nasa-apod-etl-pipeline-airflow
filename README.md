@@ -65,16 +65,22 @@ SELECT * FROM apod_data;
 
 ## Screenshots
 ### Airflow DAG Execution
-<img width="700" height="500" alt="Screenshot 2026-05-02 202051" src="https://github.com/user-attachments/assets/f5fab7c8-9aaa-42ba-93f1-b95e3e14fdb2" />
+![DAG](screenshots/dag.png)
 
 ### Data Transformation
-<img width="1876" height="329" alt="Screenshot 2026-05-02 202208" src="https://github.com/user-attachments/assets/8a4a50f7-8f44-48b0-aab4-c733e18f239b" />
+![Transform](screenshots/transform.png)
 
 ### Data Load to PostgreSQL
-<img width="1875" height="563" alt="Screenshot 2026-05-02 202221" src="https://github.com/user-attachments/assets/ef8c585d-26a3-46ad-8d79-24eaa4c61a0b" />
+![Load](screenshots/load.png)
 
 ### PostgreSQL Output
-<img width="1852" height="755" alt="Screenshot 2026-05-02 202244" src="https://github.com/user-attachments/assets/4569b257-bb04-4f11-9a23-724d6dfd4c4f" />
+![DB](screenshots/postgres.png)
+ 
 
+## What I Learned
 
+- Handling Airflow version incompatibilities
+- Debugging API authentication issues
+- Designing idempotent pipelines using ON CONFLICT
+- Managing Docker-based Airflow environment
 
