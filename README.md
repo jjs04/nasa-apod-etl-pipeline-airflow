@@ -8,6 +8,9 @@ This project implements an automated ETL (Extract, Transform, Load) pipeline usi
 * PostgreSQL
 * Docker
 
+## Architecture
+![Architecture](screenshots/architecture.png)
+
 ## Pipeline Workflow
 ### Extract
 * Data is fetched from NASA APOD API using HttpOperator
